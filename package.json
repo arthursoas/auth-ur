@@ -1,0 +1,19 @@
+{
+  "name": "auth-ur",
+  "version": "0.0.1",
+  "description": "Authentication system using password and Bearer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthursoas/auth-ur.git"
+  },
+  "author": "Arthur Soares",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arthursoas/auth-ur/issues"
+  },
+  "homepage": "https://github.com/arthursoas/auth-ur#readme"
+}
